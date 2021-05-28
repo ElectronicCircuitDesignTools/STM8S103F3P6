@@ -965,7 +965,7 @@
 
 //	Register name : TIM2_CR1.
 
-#define TIM2_CR1_ARPE		7		//	Auto-reload preload enable.
+#define TIM2_CR1_APRE		7		//	Auto-reload preload enable.
 #define TIM2_CR1_OPM		3		//	One-pulse mode.
 #define TIM2_CR1_URS		2		//	Update request source.
 #define TIM2_CR1_UDIS		1		//	Update disable.
@@ -995,7 +995,7 @@
 
 //	Register name : TIM2_EGR.
 
-#define TIM2_EGR_TG		6		//	Trigger generation.
+#define TIM2_EGR_TG	6		//	Trigger generation.
 #define TIM2_EGR_CC3G		3		//	Capture/compare 3 generation.
 #define TIM2_EGR_CC2G		2		//	Capture/compare 2 generation.
 #define TIM2_EGR_CC1G		1		//	Capture/compare 1 generation.
